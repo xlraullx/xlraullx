@@ -20,11 +20,14 @@
   <br>
 
 <div align="center">
-  
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xlraullx&theme=algolia) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xlraullx&theme=algolia&hide_border=true)](https://git.io/streak-stats)|
-| :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xlraullx&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xlraullx&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xlraullx&theme=algolia&utcOffset=8)|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xlraullx&theme=algolia) |
+| :-: |
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xlraullx&theme=algolia)](https://git.io/streak-stats)
+
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xlraullx&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xlraullx&theme=algolia)  | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xlraullx&theme=algolia&utcOffset=8)|
 | :-: | :-: | :-: |
 
 </div>
