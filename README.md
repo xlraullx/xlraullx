@@ -38,7 +38,7 @@
 <div align="center">
 <br>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&letterSpacing=5px&pause=1000&duration=13000&repeat=false&width=215&height=39&lines=Contact+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&letterSpacing=5px&pause=1000&duration=15000&repeat=false&width=215&height=39&lines=Contact+me)](https://git.io/typing-svg)
 <p align="center">
 <a href="https://www.linkedin.com/in/raul-souza-do-nascimento-53623631b/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"/></a>
 <a href="mailto:RaulSouza2025@hotmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="linkedin" height="65" width="65" /></a>
