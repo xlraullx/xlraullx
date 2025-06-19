@@ -5,9 +5,9 @@
   ![emoji-wave](https://github.com/user-attachments/assets/1a0abdfe-13ef-4fc4-be8d-4360dd23deef)
 </div>  
 
-<div  align="right">
+<div  align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&letterSpacing=5px&pause=1000&width=720&lines=Hey+welcome+to+my+perfil;My+name+is+Raul;I'm+a+Frontend+Dev;I'm+from+Brazil+RJ)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&letterSpacing=5px&pause=1000&width=520&lines=Hey!,+welcome+to+my+perfil;My+name+is+Raul;I'm+a+Frontend+Dev;I'm+from+Brazil+RJ)](https://git.io/typing-svg)
 </div>
 
 <details align="center">  
